@@ -1,0 +1,17 @@
+# Python internals
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Data and large files (The bot's "brain" stay local)
+data/
+*.pdf
+*.txt
+*.csv
+faiss_index/
+
+# Environment and secrets
+.env
+.DS_Store
