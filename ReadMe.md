@@ -1,0 +1,1 @@
+This bot answers questions about CR7
